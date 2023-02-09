@@ -1,5 +1,5 @@
 # Solucoes-com-Python-DataViking02
-Segundo dia dda semana de Soluções com Python do Data Viking.
+Segundo dia da semana de Soluções com Python do Data Viking.
 
 O que vamos fazer?
 
