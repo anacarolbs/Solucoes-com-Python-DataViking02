@@ -9,7 +9,7 @@ O que vamos fazer?
 
 Tudo feito em Python. 
 
-OBS.: foi criado um ambiente virtual na máquina e não foi colocado aqui no GIT, mas ao ativar o ambiente virtual e chamar "streamlit run app.py", essa é a visualização dos dados:
+OBS.: foi criado um ambiente virtual na máquina e não foi colocado aqui no GitHub, mas ao ativar o ambiente virtual e chamar "streamlit run app.py", essa é a visualização dos dados:
 
 Ao selecionar a empresa "Petrobrás" com intervalo de 12 meses e mostrando os dados em tabela:
 
